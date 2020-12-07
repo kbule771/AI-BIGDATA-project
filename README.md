@@ -14,19 +14,19 @@
 
 \-   현 게임 산업 동향
 
-![img](C:\Users\wansu\Desktop\AI-project\img\1.PNG)
+![1](https://user-images.githubusercontent.com/60081286/101315950-ec935980-389e-11eb-82b4-e4dd8e2553f0.PNG)
 
 현재 게임산업은 굉장히 발전되어 있으며 성장세가 지속되고 있습니다. 세계 게임시장 규모는 1천783억6천800만달러로 전년보다 7.1% 커졌고, 한국 게임 점유율은 6.3%로 미국, 중국, 일본에 이어 4위 자리를 지켰습니다. 상위의 그래프는 컨텐츠 진흥원에서 제공한 국내 게임 산업 매출액입니다. 2018년 기준 약 14조원의 매출액이 발생한것을 알 수 있습니다. 여기서 중요한 것은 성장률로, 17년도와 18년도 예상 성장률은 각 각 6프로, 4프로이었으나 실 성장률은 각각 20프로와 8.7프로 이었습니다.
 
 \-   왜 "리그 오브 레전드" 인가?
 
-![img](C:\Users\wansu\Desktop\AI-project\img\2.PNG)
+![2](https://user-images.githubusercontent.com/60081286/101315822-ae963580-389e-11eb-8fe0-d87d65f7d97d.PNG)
 
 2020년 7월 전세계 게임 매출 순위는 위와 같으며 League of Legends는 2009년 출시 이후 현재까지 가장 많은 사랑을 받고 있는 PC게임입니다. SUPER DATA에 따르면 League of Legends의 2019년 총 매출액은 약 1조 7820억원(15억 달러)으로 2018년 대비 1억불 증가한 수치이며, 지금까지 게임 뿐만 아니라 E-Sports 분야에서도 두각을 나타내었듯 꾸준히 사랑받는 게임이라고 할 수 있습니다. 그리하여 저희는 국내뿐만 아니라 전 세계에서도 가장 사랑받고 있는 게임을 주제로 서비스를 제공하고자 했습니다.
 
 \-   벤치마킹 또는 유사 서비스 사례 소개
 
-![img](C:\Users\wansu\Desktop\AI-project\img\3.PNG)
+![3](https://user-images.githubusercontent.com/60081286/101315824-ae963580-389e-11eb-8ad2-44fede8f701f.PNG)
 
 롤, 배틀그라운드, 클래시로얄 등 e스포츠 산업에서 다양한 서비스를 지원해 주고 있는 회사인 OP.GG입니다. 주로 게임 데이터를 분석하여 게이머에게 인사이트를 제공 하고 있으며, 2018년 광고 순이익으로만 5억원 선으로 일일 3,000만명이 이용하였으며, 현재는 일일접속자 4,000만명에 육박하며 기업가치는 약 500~600억으로 추정됩니다. OP.GG는 이미 글로벌 게이머들에게 사랑 받고 있는 국내 유일의 스타트업이며, Alexa 기준 약 320위로, 한국에서 네이버와 다음, 티스토리에 이어 4번째로 글로벌 트래픽이 높은 웹사이트입니다.
 
@@ -80,7 +80,7 @@
 
 **4.**  **ERD**
 
-**![img](C:\Users\wansu\Desktop\AI-project\img\4.PNG)**
+![4](https://user-images.githubusercontent.com/60081286/101315826-af2ecc00-389e-11eb-919f-81aad2eb1664.PNG)**
 
 **5.**  **인공지능**
 
@@ -88,7 +88,7 @@
 
 챔피언 인식 AI를 위한 모델 학습 YOLO NETWORK
 
-![img](C:\Users\wansu\Desktop\AI-project\img\5.PNG)
+![5](https://user-images.githubusercontent.com/60081286/101315828-afc76280-389e-11eb-9b14-a48701605057.PNG)
 
 \-   학습데이터 셋
 
@@ -98,7 +98,7 @@
 
 이미지 라벨링은 YOLO MARK를 통해 수작업
 
-![img](C:\Users\wansu\Desktop\AI-project\img\6.PNG)
+![6](https://user-images.githubusercontent.com/60081286/101315829-b0f88f80-389e-11eb-84fb-6aa76313216c.PNG)
 
 ![img](file:///C:\Users\wansu\AppData\Local\Temp\OICE_79FE0839-68FA-4F18-837D-28DA1C514D06.0\msohtmlclip1\01\clip_image014.jpg)
 
@@ -106,29 +106,29 @@
 
 Daknet학습시간 약 51시간
 
-![7](C:\Users\wansu\Desktop\AI-project\img\7.PNG)
+![7](https://user-images.githubusercontent.com/60081286/101315831-b1912600-389e-11eb-9db9-e796475dfbff.PNG)
 
 
 
 **6.** **결과 페이지**
 
-![img](C:\Users\wansu\Desktop\AI-project\img\8.PNG)![img](f
+![8](https://user-images.githubusercontent.com/60081286/101315832-b1912600-389e-11eb-9a25-7b75703ccee4.PNG)![img](f
 
-![img](C:\Users\wansu\Desktop\AI-project\img\9.PNG)
+![9](https://user-images.githubusercontent.com/60081286/101315834-b229bc80-389e-11eb-9fbe-cd43f85728ef.PNG)
 
  
 
 Google dialogflow를 활용한 챗봇 결과 페이지
 
-![img](C:\Users\wansu\Desktop\AI-project\img\10.PNG)
+![10](https://user-images.githubusercontent.com/60081286/101315835-b2c25300-389e-11eb-9a52-ec8cd964e398.PNG)
 
 사용자 전적 검색 페이지
 
-![img](C:\Users\wansu\Desktop\AI-project\img\11.PNG)
+![11](https://user-images.githubusercontent.com/60081286/101315837-b35ae980-389e-11eb-8313-f4e78c1c06ea.PNG)
 
 멀티 서치 검색 페이지
 
-![img](C:\Users\wansu\Desktop\AI-project\img\12.PNG)
+![12](https://user-images.githubusercontent.com/60081286/101315954-edc48680-389e-11eb-9c1f-ec783b974611.PNG)
 
  
 
@@ -140,6 +140,6 @@ Google dialogflow를 활용한 챗봇 결과 페이지
 
  
 
-![img](C:\Users\wansu\Desktop\AI-project\img\13.PNG)
+![13](https://user-images.githubusercontent.com/60081286/101315958-ee5d1d00-389e-11eb-84c9-225364091d62.PNG)
 
 새로운 기술들을 활용하여 도전을 해보았던 점에서 뜻깊은 프로젝트였습니다. 기한을 제대로 정하지 못하고 기획과는 다르게 조금더 욕심을 내서 기능을 추가하다가 제 시간내로 모든 기능을 완성하지 못했던 점이 가장 아쉬웠습니다. 또한 팀원들이 면접이 많이 생겨서 더욱 시간이 부족했던 것 같습니다.  팀원들과 새로운 기술들을 도전해보면서 각자 공부 할 수 있었던 점이 매력있었던 프로젝트였고, 코로나 시기라서 오프라인때 만큼의 열정으로 열심히 하지 못했던 점이 아쉬웠습니다. 
