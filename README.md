@@ -1,4 +1,4 @@
-# AI-project
+# AI-Bigdata-project
 
 ## 1. 프로젝트 주제 
 
